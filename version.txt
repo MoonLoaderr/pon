@@ -1,4 +1,1 @@
-versionForServer=1.02
-versionForClient=1.02
-downloadServer=https://cdn.discordapp.com/attachments/1219684905449951355/1219685218655539200/ServerV1_02.jar?ex=660c3360&is=65f9be60&hm=441dc5681981b6747120bf9baba9f10615c64fcb39fb3a5958622315e34a26b9&
-downloadClient=https://cdn.discordapp.com/attachments/1219684905449951355/1219685218240434176/ClientV1_02.jar?ex=660c3360&is=65f9be60&hm=fccf8330e75add9d16a4758d37c9d90997c4437124ab9441a4dd20e8c108c2dc&
+
