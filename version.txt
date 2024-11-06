@@ -1,2 +1,2 @@
-version: 1.1
-url: https://null.com/
+version: 1.0
+url: https://cdn.discordapp.com/attachments/864842951653851156/1303776445910220890/Night.jar?ex=672cfbef&is=672baa6f&hm=75fddf352e77237c8c0574c2e704a44a31696dcbedd3e71ea6928e8cfe527bac&
