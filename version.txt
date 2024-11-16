@@ -1,3 +1,3 @@
-version: 1.0
+version: 1.01
 urlClient: https://cdn.discordapp.com/attachments/864842951653851156/1303776445910220890/Night.jar?ex=672cfbef&is=672baa6f&hm=75fddf352e77237c8c0574c2e704a44a31696dcbedd3e71ea6928e8cfe527bac&
-urlLoader: https://cdn.discordapp.com/attachments/1145498958861439018/1303847413752139860/Loader.exe?ex=672d3e07&is=672bec87&hm=a337f19563e82cbee7ad096cc4157d90981362243b24bb7f749df949f85a89ec&
+urlLoader: https://cdn.discordapp.com/attachments/936337216635043893/1307399619373830154/Loader.jar?ex=673a2a47&is=6738d8c7&hm=4e450f145305c85219627ba910b891bce0e10fb229faab6e2538c4826b1e9e07&
